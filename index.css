@@ -50,7 +50,7 @@
 .main-visual {
     padding-top: 60px;
     padding-bottom: 5%;
-    background-image: url(images/img_1458.jpg);
+    background-image: url(img_1458.jpg);
     background-size: cover;
     color: #f5f5f5;
     text-align: center;
@@ -118,7 +118,7 @@ font-size: 25px;
 }
 
 #about{
-  background-image:url(images/surfboard-1.jpg);
+  background-image:url(surfboard-1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -173,7 +173,7 @@ h1{
 }
 
 #price{
-  background-image:url(images/surfboard-1.jpg);
+  background-image:url(surfboard-1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -202,7 +202,7 @@ table{
 }
 
 #contact{
-  background-image:url(images/venice-beach-surf.jpg);
+  background-image:url(venice-beach-surf.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
